@@ -1,4 +1,4 @@
-speakers_badges = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-speakers_badges.each do |speakers_badges|
-  puts "Hello, my name is #{speakers_badges}!"
+speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+speakers.each do |speakers|
+  puts "Hello, my name is #{speakers}!"
 end
