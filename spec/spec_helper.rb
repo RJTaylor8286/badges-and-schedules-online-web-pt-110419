@@ -1,4 +1,4 @@
 badge_maker("Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz")
-badge_maker do |speakers|
+badge_makereach.do |speakers|
   puts "Hello, my name is #{speakers}!"
 end
